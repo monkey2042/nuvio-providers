@@ -1,5 +1,5 @@
 {
-  "name": "Yoru's Repo",
+  "name": "monkey's Repo",
   "version": "1.0.0",
   "scrapers": [
     {
@@ -19,7 +19,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=4khdhub.click&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -40,7 +43,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=animepahe.ru&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -60,7 +66,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=uhdmovies.pink&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -80,7 +89,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=moviesmod.farm&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -101,7 +113,10 @@
       ],
       "logo": "https://image.similarpng.com/file/similarpng/very-thumbnail/2021/05/Letter-D-logo-design-template-with-geometric-shape-style-on-transparent-background-PNG.png",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -119,7 +134,10 @@
       "hasSettings": true,
       "logo": "https://net22.cc/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ],
       "disabledPlatforms": [
         "ios"
@@ -144,7 +162,9 @@
       "logo": "https://streamflix.app/assets/images/logo-text-148x72.png",
       "contentLanguage": [
         "en",
-        "hin"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -166,9 +186,9 @@
       "logo": "https://moviebox.ph/favicon.ico",
       "contentLanguage": [
         "en",
-        "hin",
-        "tam",
-        "tel"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -185,7 +205,10 @@
       "enabled": true,
       "logo": "https://vixsrc.to/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -205,9 +228,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=dvdplay.com&sz=128",
       "contentLanguage": [
-        "mal",
-        "tam",
-        "hin"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -229,7 +253,10 @@
       ],
       "logo": "https://yflix.to/assets/uploads/2f505f3de3c99889c1a72557f3e3714fc0c457b0.png",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -253,12 +280,9 @@
       "logo": "https://www.videasy.net/logo.png",
       "contentLanguage": [
         "en",
-        "de",
-        "it",
+        "es-MX",
         "fr",
-        "hi",
-        "es",
-        "pt"
+        "es"
       ]
     },
     {
@@ -278,11 +302,10 @@
       ],
       "logo": "https://mallumv.life/favicon.ico",
       "contentLanguage": [
-        "ta",
-        "te",
-        "hi",
-        "ml",
-        "kn"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -303,7 +326,10 @@
       ],
       "logo": "https://vidlink.pro/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -324,7 +350,10 @@
       ],
       "logo": "https://vidnest.fun/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -345,8 +374,9 @@
       "logo": "https://vidnest.fun/favicon.ico",
       "contentLanguage": [
         "en",
-        "hi",
-        "ja"
+        "es-MX",
+        "fr",
+        "es"
       ],
       "limited": true,
       "notes": "Automatically maps TMDB IDs to AniList. Supports sub/dub."
@@ -368,7 +398,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=cinevibe.online&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -389,12 +422,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=cinema-city.pl&sz=128",
       "contentLanguage": [
         "en",
-        "hi",
-        "ta",
-        "te",
-        "id",
-        "pl",
-        "ar"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -416,11 +446,9 @@
       "logo": "https://static.hbayy.com/simple-blog-13/prod/_nuxt/big-logo.DESZ4mBj.png",
       "contentLanguage": [
         "en",
-        "hi",
-        "ta",
-        "te",
-        "ml",
-        "kn"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -442,7 +470,10 @@
       ],
       "logo": "https://raw.githubusercontent.com/tapframe/nuvio-providers/main/Assets/Logo-2.png",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -464,7 +495,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=new6.hdhub4u.fo&sz=128",
       "contentLanguage": [
         "en",
-        "hin"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -485,9 +518,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=allmovieland.one&sz=128",
       "contentLanguage": [
         "en",
-        "hi",
-        "ta",
-        "te"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -508,7 +541,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=dooflix.org&sz=128",
       "contentLanguage": [
         "en",
-        "hi"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -529,9 +564,10 @@
       ],
       "logo": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
       "contentLanguage": [
-        "te",
-        "hi",
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -552,7 +588,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=wecima.show&sz=128",
       "contentLanguage": [
-        "ar"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -574,7 +613,9 @@
       "logo": "https://www.google.com/s2/favicons?domain=moviesdrives.my&sz=128",
       "contentLanguage": [
         "en",
-        "hin"
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -595,7 +636,10 @@
       ],
       "logo": "https://www.google.com/s2/favicons?domain=hianime.to&sz=128",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -615,7 +659,10 @@
       ],
       "logo": "https://kurage.live/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     },
     {
@@ -635,9 +682,11 @@
       ],
       "logo": "https://anizone.to/favicon.ico",
       "contentLanguage": [
-        "en"
+        "en",
+        "es-MX",
+        "fr",
+        "es"
       ]
     }
   ]
 }
-
